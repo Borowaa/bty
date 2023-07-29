@@ -6,7 +6,7 @@ _G.FpsBoost = true
 _G.Webhook = "https://discord.com/api/webhooks/1134801705909899326/N3DJM-IB_9-9BycseSKyu21JJMw0OExWeU7M1__ATCS87wWuc9cOXM4Vr1WBBEwfK-j7"
 
 getgenv().Chatkill = {
-    "ez", "𝗗𝗶𝘀𝗰𝗼𝗿𝗱 nguyendumb", "𝗗𝗶𝘀𝗰𝗼𝗿𝗱 nguyendumb",
+    "ez", "DIS nguyendumb", "DIS nguyendumb",
     "ez"
 }
 getgenv().Region_Hop = {
