@@ -6,7 +6,7 @@ _G.FpsBoost = true
 _G.Webhook = ""
 
 getgenv().Chatkill = {
-    "ez", "aquarium sever", "nguyendumb",
+    "ez", "dis nguyendumb", "dis nguyendumb",
     "ez"
 }
 getgenv().Region_Hop = {
